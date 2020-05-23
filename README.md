@@ -1,6 +1,6 @@
 # C++ Binary Search Tree
 
-Here you have the binary search tree data structure implementation in C++, this project is only for educational purposes. 
+Here you have the binary search tree data structure implementation in C++, this project was create to the "Algorithm and Data Structure (Algoritmos y Estructura de Datos)" subject for the Universidad Nacional de Lanús. 
 
  * Binary search Tree with:
         
@@ -18,12 +18,18 @@ Here you have the binary search tree data structure implementation in C++, this 
 
 ### Running the APP 
 
-* In order to run & launch the application, you can use this command for Linux/Mac OS:
+* In order to compile & execute the application, you just can use this command for Linux/Mac OS (inside the project folder, of course):
 
-`` cd AccountingExpress-API ``
+`` mkdir -p ./bin/ && g++ $(find ./src/ -name *.cpp -o -name *.c) -o ./bin/main -g -lm && ./bin/main ``
 
-* To install and run this proyect just type and execute:
 
-`` npm install ``
+### Binary Search Tree Sample 
 
-mkdir -p ./bin/ && g++ $(find ./src/ -name *.cpp -o -name *.c) -o ./bin/main -g -lm && ./bin/main
+
+![](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
+
+
+### Notes 
+
+If you want to learn all about computer science, algorithms and data structures, I recommend you visit the site [GeeksForGeeks](https://www.geeksforgeeks.org/).
+
