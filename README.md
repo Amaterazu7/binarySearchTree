@@ -20,10 +20,10 @@ Here you have the binary search tree data structure implementation in C++, this 
 
 * In order to compile & execute the application, you just can use this command for Linux/Mac OS (inside the project folder, of course):
 
-`` mkdir -p ./bin/ && g++ $(find ./src/ -name *.cpp -o -name *.c) -o ./bin/main -g -lm && ./bin/main ``
+        `` mkdir -p ./bin/ && g++ $(find ./src/ -name *.cpp -o -name *.c) -o ./bin/main -g -lm && ./bin/main ``
 
 
-### Binary Search Tree Sample 
+#### Binary Search Tree Sample 
 
 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
